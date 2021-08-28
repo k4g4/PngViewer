@@ -1,0 +1,1 @@
+Display a PNG image.
